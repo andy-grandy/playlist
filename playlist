@@ -1,0 +1,170 @@
+#EXTM3U
+
+#EXTINF:-1,AD Sport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=1749eee19b1f238736c5eda470d19b2b01115efd&.mp4
+#EXTINF:-1,AD Sport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=f9fefee84e12f354adc677ac05c42a6096cc446b&.mp4
+#EXTINF:-1,Al Kass Sports 5
+http://127.0.0.1:6878/ace/getstream?id=32f6554c008557605e806353e1ce828b8b3173d3&.mp4
+#EXTINF:-1,AlKass Sports 2
+http://127.0.0.1:6878/ace/getstream?id=1b834adedc98e613412af2020d4ce235036d421e&.mp4
+#EXTINF:-1,AlKass Sports One
+http://127.0.0.1:6878/ace/getstream?id=f5dfa3f37ed9b4febd3d1bc93ebbb8a4e9febd9e&.mp4
+#EXTINF:-1,AlKass Sports Online
+http://127.0.0.1:6878/ace/getstream?id=fe2abf7a3fe22beacc8bb7a0be64a18414d945ee&.mp4
+#EXTINF:-1,Bursaspor TV !
+http://127.0.0.1:6878/ace/getstream?id=41496d35636851550c8d7ae57686b06e53e88587&.mp4
+#EXTINF:-1,C More Hockey
+http://127.0.0.1:6878/ace/getstream?id=f5a7feaeef15566ab6448f0919a9f70511d95641&.mp4
+#EXTINF:-1,CBC Sport HD
+http://127.0.0.1:6878/ace/getstream?id=cb134bc17bf47ca4a95bea4a8a33a089b41f22ab&.mp4
+#EXTINF:-1,CDO
+http://127.0.0.1:6878/ace/getstream?id=fe2540b120b8705f12607ed6882788a562059e78&.mp4
+#EXTINF:-1,DSports HD
+http://127.0.0.1:6878/ace/getstream?id=98b9ff746feb545da65a88e3ad648189c229f575&.mp4
+#EXTINF:-1,Dota2 Film TV
+http://127.0.0.1:6878/ace/getstream?id=15dc008ea5e42d9a44060c90cd10afd047d8abee&.mp4
+#EXTINF:-1,Dubai Sport TV
+http://127.0.0.1:6878/ace/getstream?id=868dcb241ec995bfba2a2dead2602223119c8b5b&.mp4
+#EXTINF:-1,Dubai Sports 2
+http://127.0.0.1:6878/ace/getstream?id=7e9db62da245c85fce9b7c05ae982b54a90a90ba&.mp4
+#EXTINF:-1,Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=9c25986f13dcaa420217945126423b49ecb0856f&.mp4
+#EXTINF:-1,Eurosport 1 Deutschland
+http://127.0.0.1:6878/ace/getstream?id=3668e3a1982974cd007ed03064683e494940af7b&.mp4
+#EXTINF:-1,Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=adfac3205048918d5b8306cb8e13ec147f52aa1b&.mp4
+#EXTINF:-1,Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=2de856b1a866abac8ee11f49136ddcd60a312227&.mp4
+#EXTINF:-1,Eurosport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=eaabfbf25f3e61238a89f516e717152a4ab6fdda&.mp4
+#EXTINF:-1,Extreme Sports
+http://127.0.0.1:6878/ace/getstream?id=dce7749393ee9418c21a7e84f5b229f8ac924b89&.mp4
+#EXTINF:-1,Fast and FunBox
+http://127.0.0.1:6878/ace/getstream?id=21e3a19d04a585b077751032f4581b9563745e12&.mp4
+#EXTINF:-1,Fight Time HD
+http://127.0.0.1:6878/ace/getstream?id=ba3e9b3402d6039a83be0bccf2b57144153e0450&.mp4
+#EXTINF:-1,FightBox HD
+http://127.0.0.1:6878/ace/getstream?id=76705a1bccd6b02a34435b377db361111308927e&.mp4
+#EXTINF:-1,Golf Channel Polska HD
+http://127.0.0.1:6878/ace/getstream?id=017689b01eb0eec4a033c920e25b5bd623991172&.mp4
+#EXTINF:-1,Idman TV
+http://127.0.0.1:6878/ace/getstream?id=24c32d45725ebf8b4e8c1d554bed0a592e8d9ab8&.mp4
+#EXTINF:-1,Max Sport 1
+http://127.0.0.1:6878/ace/getstream?id=90376e75d76523fd38d21ddadee2bc6b66180246&.mp4
+#EXTINF:-1,Max Sport 2
+http://127.0.0.1:6878/ace/getstream?id=92ab35a95684a08e27088fd78e659459493752aa&.mp4
+#EXTINF:-1,MostVideo.TV HD
+http://127.0.0.1:6878/ace/getstream?id=5f84584bbb14c6b2742e2a7371cec7fb8d8815f3&.mp4
+#EXTINF:-1,Nautical Channel HD
+http://127.0.0.1:6878/ace/getstream?id=70b20edc04ca491fd025478ab9a7e735b264723d&.mp4
+#EXTINF:-1,Olympic Channel HD
+http://127.0.0.1:6878/ace/getstream?id=e6678da57bcbe46f50fecfdfa5373336e07782c9&.mp4
+#EXTINF:-1,Polsat Sport
+http://127.0.0.1:6878/ace/getstream?id=c28c6cb2fc731b0791cc431a0c86dca8c8f62163&.mp4
+#EXTINF:-1,Polsat Sport Extra
+http://127.0.0.1:6878/ace/getstream?id=84db5697f8ab04976c14bf20488ee200daeedeb9&.mp4
+#EXTINF:-1,Rai Sport
+http://127.0.0.1:6878/ace/getstream?id=1504e0a7b54f15ce4699d1b9b5254b294125c466&.mp4
+#EXTINF:-1,Real Madrid TV (English)
+http://127.0.0.1:6878/ace/getstream?id=6a87385c4b7f9f786d2697c7c68740fab8258791&.mp4
+#EXTINF:-1,Real Madrid TV (Spanish)
+http://127.0.0.1:6878/ace/getstream?id=c5e4a5e918f0d228d3fa22706579ebe10350894c&.mp4
+#EXTINF:-1,SEVILLA FC TV
+http://127.0.0.1:6878/ace/getstream?id=76523b2956afe6d969217a0b68ee187a4438d905&.mp4
+#EXTINF:-1,Sharjah Sports TV
+http://127.0.0.1:6878/ace/getstream?id=a26b4930b93d638341d93476eb3b6ee3e1edd029&.mp4
+#EXTINF:-1,Sky Sport F1 HD (Italy)
+http://127.0.0.1:6878/ace/getstream?id=3d02f3def5d9f75550e2132e96bb84a1f9467b6d&.mp4
+#EXTINF:-1,Sky Sport News HD Deutschland
+http://127.0.0.1:6878/ace/getstream?id=8ef6b0c0fda44244a0625c127193999d809d3def&.mp4
+#EXTINF:-1,Sport Klub Polska HD
+http://127.0.0.1:6878/ace/getstream?id=99806a687e195d13ae5fe69c3d82ddfd65bf9129&.mp4
+#EXTINF:-1,Sportacentrs.com TV (Latvia)
+http://127.0.0.1:6878/ace/getstream?id=7f0bb21d7fe6cfdfbc02abee7080f491c5a9c0fd&.mp4
+#EXTINF:-1,Super Tennis HD
+http://127.0.0.1:6878/ace/getstream?id=c4ff474d0adb70a0c2df48c59b453135ce2e126a&.mp4
+#EXTINF:-1,TVP Sport HD
+http://127.0.0.1:6878/ace/getstream?id=59d9b24e5e354cd0dd31c6ccd48310a91307dbee&.mp4
+#EXTINF:-1,UEFA Channel
+http://127.0.0.1:6878/ace/getstream?id=25cdb6a77a6784d69f672786f52b15767b8ed605&.mp4
+#EXTINF:-1,Viasat Golf
+http://127.0.0.1:6878/ace/getstream?id=b1dc9aafff9a1cccc42c93b5ae181cc460ed351b&.mp4
+#EXTINF:-1,Viasat Sport
+http://127.0.0.1:6878/ace/getstream?id=a29315c54215354aa7a2dbcd7fbe62e9ba94f737&.mp4
+#EXTINF:-1,Viasat Sport Baltic
+http://127.0.0.1:6878/ace/getstream?id=9941fec1ff3604659d4aa8089bc8844e14bd05f1&.mp4
+#EXTINF:-1,Viasat Sport HD
+http://127.0.0.1:6878/ace/getstream?id=5bea6cc9ddf2cb60848f66f1572fede84d62ca7d&.mp4
+#EXTINF:-1,Беларусь 5
+http://127.0.0.1:6878/ace/getstream?id=43d1b1c8a59060d2e10105c814b2e8ca1ba40938&.mp4
+#EXTINF:-1,Еurosport Gold
+http://127.0.0.1:6878/ace/getstream?id=3d35e17457728630f412908e029cfdd4fd307e9c&.mp4
+#EXTINF:-1,КХЛ HD
+http://127.0.0.1:6878/ace/getstream?id=d59c76c5a1241f37f94d1357ade6d59197fdc4b3&.mp4
+#EXTINF:-1,КХЛ ТВ
+http://127.0.0.1:6878/ace/getstream?id=1116a3b3cd30218d8523f34ccb5f369d73e0d019&.mp4
+#EXTINF:-1,Конный мир
+http://127.0.0.1:6878/ace/getstream?id=fee6136528dd97c265457d709b9bbfbef1020f4e&.mp4
+#EXTINF:-1,Конный мир HD
+http://127.0.0.1:6878/ace/getstream?id=5f37bc365573976bae87c59447abea1dbbcf54c9&.mp4
+#EXTINF:-1,Матч ТВ
+http://127.0.0.1:6878/ace/getstream?id=c149f4310baca71c53af8a750cd109d3acab084d&.mp4
+#EXTINF:-1,Матч ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=4cb91378cc4a3b3d5243eb7d10a4f82df82776e8&.mp4
+#EXTINF:-1,Матч! Арена
+http://127.0.0.1:6878/ace/getstream?id=dd0ed43a2638163e292ba9c7d316df5e672ea9e9&.mp4
+#EXTINF:-1,Матч! Арена HD
+http://127.0.0.1:6878/ace/getstream?id=1cacc44262dedea0ad9e836204b86141e35c8103&.mp4
+#EXTINF:-1,Матч! Игра
+http://127.0.0.1:6878/ace/getstream?id=3c0f67138065b8a3947e426c1b85aa1ced0f3f80&.mp4
+#EXTINF:-1,Матч! Игра HD
+http://127.0.0.1:6878/ace/getstream?id=ceaa09df29e874c787a8b4f79fd8164b19481b4e&.mp4
+#EXTINF:-1,Матч! Наш Спорт
+http://127.0.0.1:6878/ace/getstream?id=1692ebc271c7ee758fe144114f6151c538529785&.mp4
+#EXTINF:-1,Матч! Планета
+http://127.0.0.1:6878/ace/getstream?id=87cde69ad97ce6ff9abe359d7298f675ba40aa4a&.mp4
+#EXTINF:-1,Матч! Футбол 1
+http://127.0.0.1:6878/ace/getstream?id=b482a5006d0e07288594a48b19529411615db0ea&.mp4
+#EXTINF:-1,Матч! Футбол 1 HD
+http://127.0.0.1:6878/ace/getstream?id=72b76241cd4bfd845b4bb7cc1afc4067a4221522&.mp4
+#EXTINF:-1,Матч! Футбол 1 HD Резерв 1
+http://127.0.0.1:6878/ace/getstream?id=22b67fb4a2151c52f64ba226a973ff890c8cd05e&.mp4
+#EXTINF:-1,Матч! Футбол 1 HD Резерв 2
+http://127.0.0.1:6878/ace/getstream?id=e3c65625e6d5004b17bbf18779f2d633800c0dcf&.mp4
+#EXTINF:-1,Матч! Футбол 1 HD Резерв 3
+http://127.0.0.1:6878/ace/getstream?id=9a8774fac20d99e300d1c5bfbc651486bd0f3456&.mp4
+#EXTINF:-1,Матч! Футбол 1 Резерв 1
+http://127.0.0.1:6878/ace/getstream?id=970fbcba338028ddaad439bcbeb4f153a4feba9a&.mp4
+#EXTINF:-1,Матч! Футбол 1 Резерв 2
+http://127.0.0.1:6878/ace/getstream?id=82c735ffd908899650b7fb8e9295314b022c8b4d&.mp4
+#EXTINF:-1,Матч! Футбол 1 Резерв 3
+http://127.0.0.1:6878/ace/getstream?id=6e876f1000d56e35b892aec4c0031f3f9d9552fe&.mp4
+#EXTINF:-1,Матч! Футбол 2
+http://127.0.0.1:6878/ace/getstream?id=1d7537129e85b1c05e5069aca92f8eec7a17cc7b&.mp4
+#EXTINF:-1,Матч! Футбол 2 HD
+http://127.0.0.1:6878/ace/getstream?id=d6f013f65497d6119d9b8d1bb7485c1834a08aeb&.mp4
+#EXTINF:-1,Матч! Футбол 3
+http://127.0.0.1:6878/ace/getstream?id=a818fb9996e4fa61859f144fe822e3c08bd1649b&.mp4
+#EXTINF:-1,Матч! Футбол 3 HD
+http://127.0.0.1:6878/ace/getstream?id=2bfa184f7b8439ff4c7c41b57615964fa4027d15&.mp4
+#EXTINF:-1,Моторспорт ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=3eddc35904816099608a62ce85e9fde374042d7c&.mp4
+#EXTINF:-1,СИЛА ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=114ecce897f5131d5dc7fee0910600d73011f4b3&.mp4
+#EXTINF:-1,Сетанта Спорт
+http://127.0.0.1:6878/ace/getstream?id=e02c9f657d0e3cd295d2811b8abe026ebb0b181d&.mp4
+#EXTINF:-1,Сетанта Спорт плюс
+http://127.0.0.1:6878/ace/getstream?id=c49d21445f91d0bc46f20cbad8e27b4a69a5a531&.mp4
+#EXTINF:-1,Точка Отрыва
+http://127.0.0.1:6878/ace/getstream?id=47c3f22ae570ee0ee2d053c6aae50a7bb898ca7f&.mp4
+#EXTINF:-1,Футбoл HD
+http://127.0.0.1:6878/ace/getstream?id=4f31257f680ff6dfef95616a27be1c5ee527f9a4&.mp4
+#EXTINF:-1,Футбол
+http://127.0.0.1:6878/ace/getstream?id=f7a3ac17993e464431080bc1714e5e41be245acd&.mp4
+#EXTINF:-1,Футбол 1 HD
+http://127.0.0.1:6878/ace/getstream?id=2dcd314ca1dc2f7f68d6df990470da134518d56b&.mp4
+#EXTINF:-1,Футбол 2 (Украина)
+http://127.0.0.1:6878/ace/getstream?id=03be47bd6f266ceedf88778494ab0fad2afd8049&.mp4
+#EXTINF:-1,Футбол 2 HD
+http://127.0.0.1:6878/ace/getstream?id=1aae504e854d840be4bc5d0a8f526ff14102b104&.mp4
