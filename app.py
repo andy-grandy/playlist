@@ -11,4 +11,4 @@ def server_static(filepath):
 def maker():
     makepl()
     
-run(debug=True)
+application = default_app()
