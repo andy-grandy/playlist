@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1,Матч! Футбол 1 HD
+http://192.168.0.111:6878/ace/getstream?id=1f3badc19f04e3a8e9cb796303f2f64097ea1474&.mp4
+#EXTINF:-1,Матч! Футбол 2 HD
+http://192.168.0.111:6878/ace/getstream?id=b00b8711fb917836d62200d021b7a8ec093eedfc&.mp4
+#EXTINF:-1,Матч! Футбол 3 HD
+http://192.168.0.111:6878/ace/getstream?id=fa93bbb04cf4dd3a241b4ffdc27555eb19693cc0&.mp4

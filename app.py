@@ -1,5 +1,5 @@
 from bottle import run, static_file, route, default_app
-from playmaker import makepl
+from playmaker import makepl, getjson
 
 makepl()
 
@@ -9,6 +9,7 @@ def server_static(filepath):
 
 @route('/make')
 def maker():
+    getjson()
     makepl()
-    
+
 application = default_app()

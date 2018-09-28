@@ -20,7 +20,6 @@ def getstream(channel):
                 return str(u'#EXTINF:-1,{0}\nhttp://{1}:6878/ace/getstream?id={2}&.mp4\n'.format(channel, aceurl, hash).encode('utf-8'))
 
 def makepl():
-    getjson()
     with open('static/playlist.m3u', 'w') as pl:
         pl.write(u'#EXTM3U\n\n')
         with codecs.open('static/channels.txt', encoding='utf-8') as f:
