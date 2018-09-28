@@ -9,6 +9,7 @@ def getjson():
     data = response.read()
     with open('ttv.json', 'w') as f:
         f.write(data)
+        print data
 
 def getstream(channel):
     with open('ttv.json') as f:
