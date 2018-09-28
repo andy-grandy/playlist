@@ -11,4 +11,4 @@ def server_static(filepath):
 def maker():
     makepl()
     
-run(host='0.0.0.0', port=8080, debug=True, reloader=True)
+run(debug=True)
