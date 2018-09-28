@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import urllib, json, codecs
 
-url = 'http://91.92.66.82/trash/ttv-list/allfon.json'
+url = 'http://pomoyka.win/trash/ttv-list/ttv.json'
 aceurl = '192.168.0.111'
 
 def getjson():
