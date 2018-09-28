@@ -22,7 +22,7 @@ def getstream(channel):
 def makepl():
     with open('static/playlist.m3u', 'w') as pl:
         pl.write(u'#EXTM3U\n\n')
-        with codecs.open('static/channels.txt', encoding='utf-8') as f:
+        with codecs.open('channels.txt', encoding='utf-8') as f:
             lines = f.read().splitlines()
             for l in lines:
                 pl.write(getstream(l))
